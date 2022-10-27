@@ -25,3 +25,30 @@ C:\Users\rsgoo\Desktop\Codestack\APIMother\APiHomeWork\GoodwinR#ReverseItEndPoin
 C:\Users\rsgoo\Desktop\Codestack\APIMother\APiHomeWork\GoodwinR#ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.pdb
 C:\Users\rsgoo\Desktop\Codestack\APIMother\APiHomeWork\GoodwinR#ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.genruntimeconfig.cache
 C:\Users\rsgoo\Desktop\Codestack\APIMother\APiHomeWork\GoodwinR#ReverseItEndPoint\obj\Debug\net6.0\ref\GoodwinR#ReverseItEndPoint.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\GoodwinR#ReverseItEndPoint.exe
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\GoodwinR#ReverseItEndPoint.deps.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\GoodwinR#ReverseItEndPoint.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\GoodwinR#ReverseItEndPoint.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\GoodwinR#ReverseItEndPoint.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\scopedcss\bundle\GoodwinR#ReverseItEndPoint.styles.css
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.csproj.CopyComplete
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\refint\GoodwinR#ReverseItEndPoint.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\GoodwinR#ReverseItEndPoint.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\GoodwinR-ReverseItEndPoint\obj\Debug\net6.0\ref\GoodwinR#ReverseItEndPoint.dll
