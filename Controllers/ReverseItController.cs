@@ -16,14 +16,14 @@ isNumber = Int64.TryParse(num1, out validNum);
 isWord = Int64.TryParse(word, out validNum);
 
 if(isNumber == true && isWord == false){
-   string fuck = String.Empty;
+   string lol = String.Empty;
             for (int i = num1.Length - 1; i > -1; i--)
             {
-               fuck += num1[i];
+               lol += num1[i];
                
             };
             var resultstring = new string(word.ToCharArray().Reverse().ToArray());
-return $"{num1} reversed is {fuck}\n{word} reversed is {resultstring}!!";
+return $"{num1} reversed is {lol}\n{word} reversed is {resultstring}!!";
 }else{
     return "Please enter a valid Number and Word (in that order!)";
 }
